@@ -1,0 +1,54 @@
+#outer{
+	width: 968px;
+	height: 800px;
+/*	background: red;*/
+	margin:0 auto;
+}
+#header{
+	width: 968px;
+	height: 100px;
+}
+#header .logo{
+	width: 268px;
+	height: 100px;
+	background: black;
+	float: left;
+}
+#header .banner{
+	width: 680px;
+	height: 100px;
+	background: black;
+	float: right;
+}
+/*header*/
+#menu{
+	width: 968px;
+	height: 50px;
+	margin-top:20px;
+	margin-bottom: 20px;
+	border: 2px dashed blue;
+}
+/*Menu*/
+#content{
+	width: 968px;
+	height: 400px;
+	margin-bottom:20px;
+}
+#content .left{
+	width: 680px;
+	height: 400px;
+	background: black;
+	float: left;
+}
+#content .right{
+	width: 268px;
+	height: 400px;
+	background: black;
+	float: right;
+}
+/*content*/
+#footer{
+	width: 968px;
+	height: 80px;
+	background: aqua;
+}
